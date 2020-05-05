@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &498802303
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3625400288295963759}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.020959556, y: 0.017477166, z: 0.020959554}
+  m_Center: {x: -0.000000014901161, y: -0.000011155381, z: 4.6566126e-10}
+--- !u!1001 &3625400288295996111
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 100000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_Name
+      value: Barrel_TienTech
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 19.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 85.43185
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 169.43982
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 85.43185
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed93ece9e3a30f54a8f841602928bf6a, type: 3}
+--- !u!1 &3625400288295963759 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: ed93ece9e3a30f54a8f841602928bf6a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3625400288295996111}
+  m_PrefabAsset: {fileID: 0}
